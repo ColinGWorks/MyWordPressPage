@@ -13,7 +13,7 @@
 	<link>https://colingworks.github.io/MyWordPressPage</link>
 	<description>Tips and thoughts about wireless and tech, from Chao Gui</description>
 	<lastBuildDate>
-	Fri, 08 Mar 2019 09:13:02 +0000	</lastBuildDate>
+	Fri, 08 Mar 2019 09:40:23 +0000	</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,9 +29,13 @@
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">https://colingworks.github.io/MyWordPressPage/?p=1</guid>
-				<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+				<description><![CDATA[Now it is 2019, and it gets pretty easy with setting up a web page managed by WordPress, hosted on highly available servers with minimum cost. On Mar 1st, Google has released the .dev TLD (top level domain). Hence I found this www.devwave.dev domain name for my use, of cause with a small amount of &#8230; <a href="https://colingworks.github.io/MyWordPressPage/2019/03/08/hello-world/" class="more-link">Continue reading<span class="screen-reader-text"> "Hello world!"</span></a>]]></description>
 								<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>Now it is 2019, and it gets pretty easy with setting up a web page  managed by WordPress, hosted on highly available servers with minimum cost. On Mar 1st, Google has released the <em>.dev </em>TLD (top level domain). Hence I found this <em>www.devwave.dev</em> domain name for my use, of cause with a small amount of registration fee.</p>
+
+
+
+<p>Here is a brief history of the <em>.dev</em> domain names.  All TLD names such as <em>.com</em>, <em>.edu</em> are managed by organization named ICANN. At around 2009, it decided to open up TLDs to any names, as long as a determined register fees are paid. Thus, <em>.engineering</em>, <em>.news</em>, <em>.app</em>, and <em>.club</em>, all these novel names become TLDs.  And Google has applied to own the TLDs such as <em>.dev</em> and <em>.chrome</em>. Previously, developers has been using .dev domain names as an alias to localhost, and use for example <em>www.standard.dev</em> as URLs for testing locally hosted web services.  After Google become the owner of .dev TLD and now release them for public use, this practice has recently become outdated. But still, Google intends public to register .dev domain names for hosting web sites that are dedicated to development and technology.</p>
 ]]></content:encoded>
 							<wfw:commentRss>https://colingworks.github.io/MyWordPressPage/2019/03/08/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>

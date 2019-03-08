@@ -13,7 +13,7 @@
 	<link>https://colingworks.github.io/MyWordPressPage</link>
 	<description>Tips and thoughts about wireless and tech, from Chao Gui</description>
 	<lastBuildDate>
-	Fri, 08 Mar 2019 09:40:23 +0000	</lastBuildDate>
+	Fri, 08 Mar 2019 16:14:06 +0000	</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -35,7 +35,7 @@
 
 
 
-<p>Here is a brief history of the <em>.dev</em> domain names.  All TLD names such as <em>.com</em>, <em>.edu</em> are managed by organization named ICANN. At around 2009, it decided to open up TLDs to any names, as long as a determined register fees are paid. Thus, <em>.engineering</em>, <em>.news</em>, <em>.app</em>, and <em>.club</em>, all these novel names become TLDs.  And Google has applied to own the TLDs such as <em>.dev</em> and <em>.chrome</em>. Previously, developers has been using .dev domain names as an alias to localhost, and use for example <em>www.standard.dev</em> as URLs for testing locally hosted web services.  After Google become the owner of .dev TLD and now release them for public use, this practice has recently become outdated. But still, Google intends public to register .dev domain names for hosting web sites that are dedicated to development and technology.</p>
+<p>Here is a brief history of the <em>.dev</em> domain names.  All TLD names such as <em>.com</em>, <em>.edu</em> are managed by organization named ICANN. At around 2009, it decided to open up TLDs to any name, as long as a determined register fee is paid. Thus, <em>.engineering</em>, <em>.news</em>, <em>.app</em>, and <em>.club</em>, all these novel names have become TLDs.  And Google has applied to own the TLDs such as <em>.dev</em> and <em>.chrome</em>. Previously, developers have been using .dev domain as alias to localhost domain, and use it, for example <em>www.standard.dev,</em> as URL for testing locally hosted web services.  After Google become the owner of <em>.dev</em> TLD and now release them for public use, this practice has recently become outdated. But still, Google intends public to register .dev domain names for hosting web sites that are dedicated to development and technology.</p>
 ]]></content:encoded>
 							<wfw:commentRss>https://colingworks.github.io/MyWordPressPage/2019/03/08/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
